@@ -24,6 +24,9 @@ nav{
     flex-wrap:wrap;
 }
 
+a:hover {
+    color: #FC569A;
+}
 
 .logo {
 
@@ -120,6 +123,7 @@ nav{
 
 button:hover {
     cursor: pointer;
+    background-color:#0a1b32;
 }
 
 .sign-button {
